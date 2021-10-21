@@ -1,6 +1,6 @@
-# TAREA OBJETOS  
+# METODOS CONSTRUCTORES, OBJETOS Y CLASES  
 
-## PARTICIPANTE: Juan Felipe Martinez 
+## PARTICIPANTE: Brissa Higuita Patiño
 
 ##  1: Crear un metodo constructor llamada persona. Sus atributos son: nombre, edad y cedula. Construye los siguientes métodos para la clase:
 
